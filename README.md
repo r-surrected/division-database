@@ -2,6 +2,8 @@
 
 # The Division Database
 
+https://discord.gg/MtFWkQdzru
+
 This will be quite the yap so here's a shortened version:
 
 I wanted to be able to track changes in divisions, so I made a website that does that.
