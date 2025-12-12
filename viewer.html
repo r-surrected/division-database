@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Universal Union Division Dashboard</title>
+
+        <!-- Updated favicon -->
+        <link rel="icon" type="image/png" href="icons/icon.png">
+
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <div id="app">
+
+            <!-- Sidebar -->
+            <aside id="sidebar">
+                <div class="sidebar-header">
+
+                    <!-- UPDATED LOGO BLOCK -->
+                    <div id="logo">
+                        <img id="mode-logo" src="icons/CCA.webp"
+                            alt="Mode Logo">
+                    </div>
+
+                    <div class="sidebar-title">
+                        Division Database
+                    </div>
+                </div>
+
+                <button id="mode-toggle" class="mode-toggle-button">
+                    Mode: CCA
+                </button>
+
+                <nav class="sidebar-nav">
+                    <button class="nav-button active"
+                        data-view="divisions">Divisions</button>
+                    <button class="nav-button"
+                        data-view="search">Search</button>
+                    <button class="nav-button"
+                        data-view="timeline">Timeline</button>
+                </nav>
+            </aside>
+
+            <!-- Main content -->
+            <main id="main">
+                <!-- Top header -->
+                <header id="main-header">
+                    <h1>Universal Union Division Dashboard</h1>
+                    <p id="mode-subtitle">Mode: Civil Protection and Officer
+                        Academy</p>
+                </header>
+
+                <!-- Panels container -->
+                <section id="panels">
+
+                    <!-- Divisions / Variants / Command view -->
+                    <div id="view-divisions" class="panel visible">
+                        <div class="panel-header">
+                            <h2 id="divisions-title">Divisions</h2>
+                            <p id="divisions-desc">Select a division or command
+                                to view current members by rank.</p>
+                        </div>
+
+                        <div class="division-selector">
+                            <button class="division-button"
+                                data-division></button>
+                            <button class="division-button"
+                                data-division></button>
+                            <button class="division-button"
+                                data-division></button>
+                            <button class="division-button"
+                                data-division></button>
+                            <button class="division-button"
+                                data-division></button>
+                            <button class="division-button"
+                                data-division></button>
+                        </div>
+
+                        <div id="division-content">
+                            <div class="info-text">
+                                Loading division data...
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Search view -->
+                    <div id="view-search" class="panel">
+                        <div class="panel-header">
+                            <h2>User Search</h2>
+                            <p>Search by username to view a Protection Unit or
+                                Overwatch profile.</p>
+                        </div>
+
+                        <div class="search-box">
+                            <input type="text" id="search-input"
+                                placeholder="Enter username" />
+                            <button id="search-button">Search</button>
+                        </div>
+
+                        <div id="search-results" class="list-panel">
+                            <div class="info-text">
+                                Enter a username to search.
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Timeline view -->
+                    <div id="view-timeline" class="panel">
+                        <div class="panel-header">
+                            <h2>Event Timeline</h2>
+                            <p>Minimal log of all recorded events for the active
+                                branch.</p>
+                        </div>
+
+                        <div class="timeline-controls">
+                            <input type="text" id="timeline-search"
+                                placeholder="Filter by username" />
+                        </div>
+
+                        <div id="timeline-list" class="list-panel">
+                            <div class="info-text">
+                                Loading events...
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Profile view -->
+                    <div id="profile-view" class="panel profile-panel">
+                        <button id="profile-back"
+                            class="nav-button back-button">Back</button>
+
+                        <div class="profile-header">
+                            <div class="avatar-placeholder">
+                                <span>Avatar</span>
+                            </div>
+                            <div class="profile-main-info">
+                                <h2 id="profile-username">Username</h2>
+                                <p id="profile-userid">User ID</p>
+                                <p id="profile-division">Division</p>
+                                <p id="profile-rank">Rank</p>
+                                <p id="profile-history">Past usernames: n/a</p>
+                            </div>
+                        </div>
+
+                        <div class="profile-events">
+                            <h3>Event History</h3>
+                            <div id="profile-events-list" class="list-panel">
+                                <div class="info-text">
+                                    No events recorded for this user.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </section>
+            </main>
+        </div>
+    </body>
+</html>
