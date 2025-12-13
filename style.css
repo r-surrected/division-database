@@ -35,6 +35,21 @@ body {
     margin-bottom: 16px;
 }
 
+#special-thanks {
+    position: fixed;
+    bottom: 12px;
+    left: 12px;
+
+    max-width: 260px;
+    font-size: 11px;
+    line-height: 1.25;
+
+    display: block;
+    white-space: normal !important;
+    overflow-wrap: anywhere;
+}
+
+
 .uu-logo {
     width: 40px;
     height: 40px;
