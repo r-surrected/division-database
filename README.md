@@ -2,7 +2,7 @@
 
 # The Division Database
 
-https://discord.gg/MtFWkQdzru
+[https://discord.gg/MtFWkQdzru](https://discord.gg/MtFWkQdzru)
 
 ## Why I made this 
 This will be quite the yap so here's a shortened version:
