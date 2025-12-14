@@ -1,0 +1,15 @@
+# Backend / checker
+checker.py
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Safety: never commit local logs outside data/
+*.log
