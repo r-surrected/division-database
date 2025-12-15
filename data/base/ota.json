@@ -20,26 +20,12 @@
         "rank_name": "Overwatch Captain",
         "rank_value": 6
     },
-    "1108730332": {
-        "username": "iamDeathskull",
-        "username_checked": "2025-12-14",
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
     "186027613": {
         "username": "Mephidanttes",
         "username_checked": "2025-12-13",
         "division": "OTA",
         "rank_name": "Overwatch Commander",
         "rank_value": 7
-    },
-    "585618715": {
-        "username": "KacpiTMXD",
-        "username_checked": "2025-12-14",
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
     },
     "15685343": {
         "username": "WantedMellon",
@@ -48,33 +34,12 @@
         "rank_name": "Overwatch Captain",
         "rank_value": 6
     },
-    "378484133": {
-        "username": "ahhamadhx",
-        "username_checked": "2025-12-14",
-        "division": "PHANTOM",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "87069773": {
-        "username": "STAFIST",
-        "username_checked": "2025-12-14",
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
     "1113369732": {
         "username": "GoIdbust",
         "username_checked": "2025-12-13",
         "division": "OTA",
         "rank_name": "Overwatch Officer",
         "rank_value": 5
-    },
-    "1273257926": {
-        "username": "Autonomous_Unit",
-        "username_checked": "2025-12-14",
-        "division": "DAGGER",
-        "rank_name": "Tier III",
-        "rank_value": 3
     },
     "207709603": {
         "username": "HertzLV",
@@ -90,20 +55,6 @@
         "rank_name": "Overwatch Captain",
         "rank_value": 6
     },
-    "107874545": {
-        "username": null,
-        "username_checked": null,
-        "division": "PHANTOM",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "54231194": {
-        "username": null,
-        "username_checked": null,
-        "division": "PHANTOM",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
     "1530840652": {
         "username": "InfragiIity",
         "username_checked": "2025-12-13",
@@ -117,13 +68,6 @@
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
-    },
-    "590563388": {
-        "username": null,
-        "username_checked": null,
-        "division": "KING",
-        "rank_name": "Tier II",
-        "rank_value": 2
     },
     "16231952": {
         "username": "DexClassic",
@@ -153,40 +97,12 @@
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
-    "1417927891": {
-        "username": null,
-        "username_checked": null,
-        "division": "PHANTOM",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
     "105326410": {
         "username": "PilotClassic",
         "username_checked": "2025-12-13",
         "division": "OTA",
         "rank_name": "Overwatch Officer",
         "rank_value": 5
-    },
-    "57896758": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "105716990": {
-        "username": null,
-        "username_checked": null,
-        "division": "KING",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "417795263": {
-        "username": null,
-        "username_checked": null,
-        "division": "KING",
-        "rank_name": "Tier II",
-        "rank_value": 2
     },
     "329655368": {
         "username": "Myrrakh",
@@ -195,47 +111,12 @@
         "rank_name": "Sectorial Commander",
         "rank_value": 8
     },
-    "240841006": {
-        "username": null,
-        "username_checked": null,
-        "division": "PHANTOM",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "2431405557": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "504934349": {
-        "username": null,
-        "username_checked": null,
-        "division": "KING",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "353382054": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
     "1346443058": {
         "username": "Asynthetics",
         "username_checked": "2025-12-13",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
-    },
-    "1257092449": {
-        "username": null,
-        "username_checked": null,
-        "division": "KING",
-        "rank_name": "Tier II",
-        "rank_value": 2
     },
     "1116603715": {
         "username": "NiNjayuo99",
@@ -244,75 +125,12 @@
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
-    "568989893": {
-        "username": null,
-        "username_checked": null,
-        "division": "KING",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "362136537": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "490641088": {
-        "username": null,
-        "username_checked": null,
-        "division": "PHANTOM",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
-    "96571370": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "2655480287": {
-        "username": null,
-        "username_checked": null,
-        "division": "KING",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "3590588349": {
-        "username": null,
-        "username_checked": null,
-        "division": "DAGGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
     "108224464": {
         "username": "mudkip0123",
         "username_checked": "2025-12-13",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
-    },
-    "114914679": {
-        "username": null,
-        "username_checked": null,
-        "division": "PHANTOM",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
-    "3859761014": {
-        "username": null,
-        "username_checked": null,
-        "division": "PHANTOM",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "1921534380": {
-        "username": null,
-        "username_checked": null,
-        "division": "KING",
-        "rank_name": "Tier III",
-        "rank_value": 3
     },
     "792646049": {
         "username": "RedSin_s",
@@ -328,291 +146,11 @@
         "rank_name": "Overwatch Officer",
         "rank_value": 5
     },
-    "153879806": {
-        "username": null,
-        "username_checked": null,
-        "division": "PHANTOM",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "2046993822": {
-        "username": null,
-        "username_checked": null,
-        "division": "DAGGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "844013250": {
-        "username": null,
-        "username_checked": null,
-        "division": "DAGGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "70778781": {
-        "username": null,
-        "username_checked": null,
-        "division": "KING",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
-    "1536968033": {
-        "username": null,
-        "username_checked": null,
-        "division": "DAGGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "1945409980": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
     "34783532": {
         "username": "Gr_udge",
         "username_checked": "2025-12-13",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
-    },
-    "3162975308": {
-        "username": null,
-        "username_checked": null,
-        "division": "DAGGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "346838092": {
-        "username": null,
-        "username_checked": null,
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "3300800349": {
-        "username": null,
-        "username_checked": null,
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "132338272": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "1689481069": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
-    "1117564439": {
-        "username": null,
-        "username_checked": null,
-        "division": "PHANTOM",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
-    "65887411": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "2766451208": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "450816973": {
-        "username": null,
-        "username_checked": null,
-        "division": "DAGGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "542223891": {
-        "username": null,
-        "username_checked": null,
-        "division": "DAGGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "253629301": {
-        "username": null,
-        "username_checked": null,
-        "division": "RANGER",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "60625583": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "36718909": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "3152653035": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "2318526755": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "491042709": {
-        "username": null,
-        "username_checked": null,
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "821807256": {
-        "username": null,
-        "username_checked": null,
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "1919223526": {
-        "username": null,
-        "username_checked": null,
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "3415746256": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "4402557269": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
-    "29280649": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
-    "86012139": {
-        "username": null,
-        "username_checked": null,
-        "division": "RANGER",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
-    "753682407": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "2236336611": {
-        "username": null,
-        "username_checked": null,
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "2512023401": {
-        "username": null,
-        "username_checked": null,
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "662240777": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "1993588074": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
-    "7904301331": {
-        "username": null,
-        "username_checked": null,
-        "division": "PHANTOM",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "413178827": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "1409374": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "7225765909": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "101807084": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "1167240489": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "234067487": {
-        "username": null,
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
     }
 }

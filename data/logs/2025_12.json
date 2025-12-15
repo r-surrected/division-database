@@ -89,5 +89,725 @@
         "division": "SPEAR",
         "old_rank_name": "Division Leader",
         "old_rank_value": 10
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 739761862,
+        "username": "111x5",
+        "division": "ACADEMY",
+        "old_rank_name": "Senior Instructor",
+        "old_rank_value": 8
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 2620592271,
+        "username": "FaithTheSiren",
+        "division": "RAZOR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 410110398,
+        "username": "ThunderMydrek",
+        "division": "ACADEMY",
+        "old_rank_name": "Deputy Instructor",
+        "old_rank_value": 9
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 39922681,
+        "username": "rzuffy",
+        "division": "ACADEMY",
+        "old_rank_name": "Senior Instructor",
+        "old_rank_value": 8
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 1742458691,
+        "username": "X_LOOA",
+        "division": "ACADEMY",
+        "old_rank_name": "Head Instructor",
+        "old_rank_value": 10
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 2047685403,
+        "username": "3_3FivE",
+        "division": "ACADEMY",
+        "old_rank_name": "Deputy Instructor",
+        "old_rank_value": 9
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1919223526,
+        "username": null,
+        "division": "RANGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1689481069,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 2318526755,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1167240489,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 132338272,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 3300800349,
+        "username": null,
+        "division": "RANGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 542223891,
+        "username": null,
+        "division": "DAGGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 568989893,
+        "username": null,
+        "division": "KING",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 4402557269,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 378484133,
+        "username": "ahhamadhx",
+        "division": "PHANTOM",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 29280649,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 7225765909,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 240841006,
+        "username": null,
+        "division": "PHANTOM",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 413178827,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1536968033,
+        "username": null,
+        "division": "DAGGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 57896758,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 585618715,
+        "username": "KacpiTMXD",
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 153879806,
+        "username": null,
+        "division": "PHANTOM",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 3162975308,
+        "username": null,
+        "division": "DAGGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 2236336611,
+        "username": null,
+        "division": "RANGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 844013250,
+        "username": null,
+        "division": "DAGGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 36718909,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1417927891,
+        "username": null,
+        "division": "PHANTOM",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 2431405557,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1257092449,
+        "username": null,
+        "division": "KING",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 590563388,
+        "username": null,
+        "division": "KING",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1108730332,
+        "username": "iamDeathskull",
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1921534380,
+        "username": null,
+        "division": "KING",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 101807084,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1273257926,
+        "username": "Autonomous_Unit",
+        "division": "DAGGER",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 60625583,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 107874545,
+        "username": null,
+        "division": "PHANTOM",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1409374,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 362136537,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 417795263,
+        "username": null,
+        "division": "KING",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 450816973,
+        "username": null,
+        "division": "DAGGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 490641088,
+        "username": null,
+        "division": "PHANTOM",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 86012139,
+        "username": null,
+        "division": "RANGER",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 2655480287,
+        "username": null,
+        "division": "KING",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 54231194,
+        "username": null,
+        "division": "PHANTOM",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 253629301,
+        "username": null,
+        "division": "RANGER",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 105716990,
+        "username": null,
+        "division": "KING",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 491042709,
+        "username": null,
+        "division": "RANGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 7904301331,
+        "username": null,
+        "division": "PHANTOM",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 2046993822,
+        "username": null,
+        "division": "DAGGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1993588074,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 96571370,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 662240777,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 2512023401,
+        "username": null,
+        "division": "RANGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1117564439,
+        "username": null,
+        "division": "PHANTOM",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 234067487,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 2766451208,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 3152653035,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 65887411,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 70778781,
+        "username": null,
+        "division": "KING",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1945409980,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 3415746256,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 346838092,
+        "username": null,
+        "division": "RANGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 353382054,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 114914679,
+        "username": null,
+        "division": "PHANTOM",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 87069773,
+        "username": "STAFIST",
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 3590588349,
+        "username": null,
+        "division": "DAGGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 3859761014,
+        "username": null,
+        "division": "PHANTOM",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 504934349,
+        "username": null,
+        "division": "KING",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 821807256,
+        "username": null,
+        "division": "RANGER",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2025-12-14",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 753682407,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
     }
 ]
