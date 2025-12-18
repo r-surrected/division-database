@@ -607,5 +607,15 @@
         "division": "PHANTOM",
         "old_rank_name": "Tier III",
         "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-18",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 4708319065,
+        "username": "turkish_pro203",
+        "division": "RAZOR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2
     }
 ]
