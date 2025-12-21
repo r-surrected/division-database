@@ -736,5 +736,25 @@
         "new_division": "DAGGER",
         "rank_name": "Tier III",
         "rank_value": 3
+    },
+    {
+        "date": "2025-12-21",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 1383682075,
+        "username": "e_bogy",
+        "division": "RAZOR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-21",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 474739927,
+        "username": "Dramaticman_619",
+        "division": "SPEAR",
+        "old_rank_name": "D3 Protection Unit",
+        "old_rank_value": 4
     }
 ]
