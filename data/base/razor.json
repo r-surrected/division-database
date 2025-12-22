@@ -43,21 +43,21 @@
     },
     "424432981": {
         "username": "SuperEpicLolMaster",
-        "username_checked": "2025-12-14",
+        "username_checked": "2025-12-22",
         "division": "RAZOR",
         "rank_name": "D1 Protection Unit",
         "rank_value": 6
     },
     "1339741167": {
         "username": "KINGKRAKEN13324",
-        "username_checked": "2025-12-14",
+        "username_checked": "2025-12-22",
         "division": "RAZOR",
         "rank_name": "Field Officer",
         "rank_value": 8
     },
     "841760692": {
         "username": "Celopan4747PRO",
-        "username_checked": "2025-12-14",
+        "username_checked": "2025-12-22",
         "division": "RAZOR",
         "rank_name": "Elite Protection Unit",
         "rank_value": 7
@@ -157,15 +157,15 @@
         "username": "PeltdaysTheSecond",
         "username_checked": "2025-12-14",
         "division": "RAZOR",
-        "rank_name": "D2 Protection Unit",
-        "rank_value": 5
+        "rank_name": "D1 Protection Unit",
+        "rank_value": 6
     },
     "5256873190": {
         "username": "SectoriaICommand",
         "username_checked": "2025-12-14",
         "division": "RAZOR",
-        "rank_name": "D3 Protection Unit",
-        "rank_value": 4
+        "rank_name": "D2 Protection Unit",
+        "rank_value": 5
     },
     "564279133": {
         "username": "thethousandthknight",
@@ -213,8 +213,8 @@
         "username": "Avvlas",
         "username_checked": "2025-12-15",
         "division": "RAZOR",
-        "rank_name": "D3 Protection Unit",
-        "rank_value": 4
+        "rank_name": "D2 Protection Unit",
+        "rank_value": 5
     },
     "1565084764": {
         "username": "Z9Kaxence",
@@ -269,15 +269,15 @@
         "username": "lone_fell",
         "username_checked": "2025-12-18",
         "division": "RAZOR",
-        "rank_name": "Recruit",
-        "rank_value": 1
+        "rank_name": "D5 Protection Unit",
+        "rank_value": 2
     },
     "1164355984": {
         "username": "v_kwk",
         "username_checked": "2025-12-18",
         "division": "RAZOR",
-        "rank_name": "Recruit",
-        "rank_value": 1
+        "rank_name": "D5 Protection Unit",
+        "rank_value": 2
     },
     "2240817225": {
         "username": "qExotro",
@@ -290,8 +290,8 @@
         "username": "matsergamer12R12",
         "username_checked": "2025-12-19",
         "division": "RAZOR",
-        "rank_name": "Recruit",
-        "rank_value": 1
+        "rank_name": "D5 Protection Unit",
+        "rank_value": 2
     },
     "76497263": {
         "username": "ColeMan1047",
@@ -304,15 +304,15 @@
         "username": "johngoat57",
         "username_checked": "2025-12-19",
         "division": "RAZOR",
-        "rank_name": "Recruit",
-        "rank_value": 1
+        "rank_name": "D5 Protection Unit",
+        "rank_value": 2
     },
     "8305274822": {
         "username": null,
         "username_checked": null,
         "division": "RAZOR",
-        "rank_name": "Recruit",
-        "rank_value": 1
+        "rank_name": "D5 Protection Unit",
+        "rank_value": 2
     },
     "893557274": {
         "username": null,
@@ -332,8 +332,8 @@
         "username": null,
         "username_checked": null,
         "division": "RAZOR",
-        "rank_name": "Recruit",
-        "rank_value": 1
+        "rank_name": "D5 Protection Unit",
+        "rank_value": 2
     },
     "2617768206": {
         "username": null,
@@ -346,7 +346,7 @@
         "username": null,
         "username_checked": null,
         "division": "RAZOR",
-        "rank_name": "Recruit",
-        "rank_value": 1
+        "rank_name": "D5 Protection Unit",
+        "rank_value": 2
     }
 }

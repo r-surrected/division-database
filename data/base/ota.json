@@ -71,35 +71,35 @@
     },
     "1273257926": {
         "username": "Autonomous_Unit",
-        "username_checked": "2025-12-14",
+        "username_checked": "2025-12-22",
         "division": "DAGGER",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "207709603": {
         "username": "HertzLV",
-        "username_checked": "2025-12-13",
+        "username_checked": "2025-12-22",
         "division": "OTA",
         "rank_name": "Overwatch Captain",
         "rank_value": 6
     },
     "36744697": {
         "username": "qsawz",
-        "username_checked": "2025-12-13",
+        "username_checked": "2025-12-22",
         "division": "OTA",
         "rank_name": "Overwatch Captain",
         "rank_value": 6
     },
     "107874545": {
         "username": "W_alIcroft",
-        "username_checked": "2025-12-14",
+        "username_checked": "2025-12-22",
         "division": "PHANTOM",
         "rank_name": "Tier III",
         "rank_value": 3
     },
     "54231194": {
         "username": "GeneralHell",
-        "username_checked": "2025-12-14",
+        "username_checked": "2025-12-22",
         "division": "PHANTOM",
         "rank_name": "Tier II",
         "rank_value": 2
@@ -436,7 +436,7 @@
     "253629301": {
         "username": null,
         "username_checked": null,
-        "division": "RANGER",
+        "division": "ECHO",
         "rank_name": "Tier III",
         "rank_value": 3
     },
@@ -499,9 +499,9 @@
     "4402557269": {
         "username": null,
         "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "RANGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "29280649": {
         "username": null,
@@ -520,9 +520,9 @@
     "753682407": {
         "username": null,
         "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "RANGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "2236336611": {
         "username": null,
@@ -541,9 +541,9 @@
     "662240777": {
         "username": null,
         "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "RANGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "1993588074": {
         "username": null,
@@ -583,7 +583,7 @@
     "101807084": {
         "username": null,
         "username_checked": null,
-        "division": "ECHO",
+        "division": "RANGER",
         "rank_name": "Tier III",
         "rank_value": 3
     },
