@@ -1,25 +1,42 @@
-# [**Click here for viewer**](https://r-surrected.github.io/division-database/viewer.html)
+# [Click here for the viewer](https://r-surrected.github.io/division-database/viewer.html)
 
 # The Division Database
 
-[https://discord.gg/MtFWkQdzru](https://discord.gg/MtFWkQdzru)
+Discord: https://discord.gg/MtFWkQdzru
 
-## Why I made this 
-This will be quite the yap so here's a shortened version:
+## What this is
 
-I wanted to be able to track changes in divisions, so I made a website that does that.
+A public, static database + viewer that tracks division and OTA roster changes over time for City-17 HL2RP Roblox groups, without requiring anyone to manually maintain logs.
 
-Longer version here:
+## Why I made this
 
-I've been in the City-17 community on and off since 2020 and I have always wanted something to track the changes in all of the divisions. It would always be "this person left" or "this person joined", but how do you track all that? It became a little annoying to do this.
-I made this project to solve this problem. It tracks all divisional and OTA changes so that you don't have to. 
+I’ve been around the City-17 community on and off since 2020, and division history has always been messy to keep up with. You’ll hear:
+
+- “They joined JURY”
+- “They transferred to RAZOR”
+- “They got promoted”
+- “They discharged”
+
+This was always difficult to track and too much to stay on top of.
+
+So I built a system that automatically records those changes and publishes them in a browsable format.
 
 ## How it works
 
-The database uses a python script (not in the repo) that runs scheduled (12:00 PM EST daily) on a headless computer to fetch current Roblox group data using their API. It compares it against the previously made snapshot of the data and generates events (changes) for promotions, transfers, discharges, and username changes. The data is exported to JSON files and are pushed to this repo, automatically updating the github pages site that it runs on. The viewer html file allows user to view the static data, meaning that the website does none of the fetching and the backend runs somewhere else.
+This repo is the frontend + data storage. The “backend” is a separate Python script (not included in this repo) that runs on a schedule and does the heavy lifting.
 
-This may seem like I go in and manually update the json but it's purely done by a python script. I wouldn't wish manual json updating on anyone. 
+Functionality Overview:
 
-## Current state / updates
+1. A Python script runs daily (12:00 PM Eastern Standard Time).
+2. It fetches current group data from Roblox using their API.
+3. It compares the new snapshot to the previous snapshot.
+4. It generates change events such as:
+   - promotions and demotions
+   - division transfers
+   - discharges
+   - username changes
+5. It exports everything to JSON.
+6. It pushes the updated JSON to this repo.
+7. GitHub Pages serves the viewer, which reads the JSON and displays it.
 
-Right now I'm working on automatically updating it (actually getting the headless computer to work and stuff). Currently the username change system is breaking, so any changes just break and they are named "unknown." 
+The website itself is static. It does not fetch Roblox data directly. It only displays the already-generated JSON.
