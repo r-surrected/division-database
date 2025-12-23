@@ -1,8 +1,6 @@
 
 # The Division Database
 
-> A snapshot-driven history of division and OTA roster changes for City-17's HL2RP Roblox groups.
-
 ![Update Schedule](https://img.shields.io/badge/updates-daily-informational)
 ![Backend](https://img.shields.io/badge/backend-offline%20python-blue)
 ![Viewer](https://img.shields.io/badge/viewer-static-brightgreen)
@@ -18,22 +16,24 @@
 
 ## Overview
 
-The Division Database is a public, snapshot-driven database with a static web viewer that tracks division and OTA roster changes over time for City-17 HL2RP Roblox groups.
+The Division Database is a database that uses snapshots (API gets lists of everyone in divisions, gets their names and other info) to track changes over time. It tracks the changes in City-17 HL2RP's Roblox groups using an offline python script, the frontend is purely a data viewer.
 
-It exists to preserve how group membership changes over time without requiring anyone to manually track joins, transfers, promotions, or discharges.
+It's main goal is to be an automated system that tracks all of these changes for convienience. It's easy to look up someone's name and see a history of where they've been or what happened to them.
+
+The Division Dashboard refers to the data viewer itself but the database is the backend and the entire project.
 
 ---
 
 ## Why I made this
 
-I’ve been part of the City-17 community on and off since 2020, and division history has always been difficult to keep up with. You constantly hear things like:
+I’ve been part of the City-17 community on and off since 2020, and division history has always been difficult to keep up with. In these communities, you'll constantly hear things like:
 
 - “They joined JURY”
 - “They transferred to RAZOR”
 - “They got promoted”
 - “They discharged”
 
-Once enough time passes, reconstructing what actually happened becomes guesswork. This project exists to make that history concrete and accessible.
+Even while I was still in divisions, it was still hard to track who did what. Now that there are so many more people in divisions, this is needed exponentially more.
 
 ---
 
@@ -41,9 +41,9 @@ Once enough time passes, reconstructing what actually happened becomes guesswork
 
 Data generation and data presentation are intentionally separated.
 
-A scheduled Python backend runs offline once per day at 12:00 PM Eastern Standard Time, captures the current state of relevant Roblox groups, compares it against the previous snapshot, and derives change events. The resulting snapshots and events are exported as JSON and pushed to this repository.
+The backend is a python script that calls the Roblox API for current group status, figures out the changes that have happened, exports everything to json, and pushes to this repo. 
 
-The web viewer is fully static and read-only. It does not fetch live data and performs no writes.
+The web viewer is fully static and read-only. It does not fetch live data and performs no writes. All of the backend is done with an python script I run on a personal headless server.
 
 ```mermaid
 flowchart TD
