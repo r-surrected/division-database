@@ -971,5 +971,99 @@
         "division": "JURY",
         "old_rank_name": "D3 Protection Unit",
         "old_rank_value": 4
+    },
+    {
+        "date": "2025-12-23",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 438198734,
+        "username": "nobleqsix",
+        "division": "SPEAR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3,
+        "new_rank_name": "D3 Protection Unit",
+        "new_rank_value": 4
+    },
+    {
+        "date": "2025-12-23",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 384253812,
+        "username": null,
+        "division": "SPEAR",
+        "old_rank_name": "Recruit",
+        "old_rank_value": 1,
+        "new_rank_name": "D5 Protection Unit",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2025-12-23",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 2929749554,
+        "username": "BeanHunteralt2",
+        "division": "SPEAR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3,
+        "new_rank_name": "D3 Protection Unit",
+        "new_rank_value": 4
+    },
+    {
+        "date": "2025-12-23",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 102536829,
+        "username": "NitrusXI",
+        "division": "SPEAR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3,
+        "new_rank_name": "D3 Protection Unit",
+        "new_rank_value": 4
+    },
+    {
+        "date": "2025-12-23",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 1712366108,
+        "username": "XEclipse_205",
+        "division": "SPEAR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2,
+        "new_rank_name": "D4 Protection Unit",
+        "new_rank_value": 3
+    },
+    {
+        "date": "2025-12-23",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 1340992791,
+        "username": "day1ups",
+        "division": "SPEAR",
+        "old_rank_name": "Field Officer",
+        "old_rank_value": 8,
+        "new_rank_name": "Squadron Leader",
+        "new_rank_value": 9
+    },
+    {
+        "date": "2025-12-23",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 234067487,
+        "username": "Iaurib",
+        "old_division": "DAGGER",
+        "new_division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-23",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1409374,
+        "username": "Edvin96",
+        "old_division": "ECHO",
+        "new_division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     }
 ]

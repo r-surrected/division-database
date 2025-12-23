@@ -260,21 +260,21 @@
     },
     "96571370": {
         "username": "Excalitar",
-        "username_checked": "2025-12-16",
+        "username_checked": "2025-12-23",
         "division": "ECHO",
         "rank_name": "Tier I",
         "rank_value": 1
     },
     "2655480287": {
         "username": "xtlwar1",
-        "username_checked": "2025-12-16",
+        "username_checked": "2025-12-23",
         "division": "KING",
         "rank_name": "Tier III",
         "rank_value": 3
     },
     "3590588349": {
         "username": "An1ziko",
-        "username_checked": "2025-12-16",
+        "username_checked": "2025-12-23",
         "division": "DAGGER",
         "rank_name": "Tier I",
         "rank_value": 1
@@ -288,14 +288,14 @@
     },
     "114914679": {
         "username": "Aaron0708",
-        "username_checked": "2025-12-16",
+        "username_checked": "2025-12-23",
         "division": "PHANTOM",
         "rank_name": "Tier II",
         "rank_value": 2
     },
     "3859761014": {
         "username": "BrickLord787",
-        "username_checked": "2025-12-16",
+        "username_checked": "2025-12-23",
         "division": "PHANTOM",
         "rank_name": "Tier I",
         "rank_value": 1
@@ -569,7 +569,7 @@
     "1409374": {
         "username": "Edvin96",
         "username_checked": null,
-        "division": "ECHO",
+        "division": "DAGGER",
         "rank_name": "Tier III",
         "rank_value": 3
     },
@@ -597,7 +597,7 @@
     "234067487": {
         "username": "Iaurib",
         "username_checked": null,
-        "division": "DAGGER",
+        "division": "ECHO",
         "rank_name": "Tier III",
         "rank_value": 3
     }
