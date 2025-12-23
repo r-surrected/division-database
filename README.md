@@ -10,8 +10,8 @@
 ![Hosting](https://img.shields.io/badge/hosting-GitHub%20Pages-black)
 ![Status](https://img.shields.io/badge/status-active-success)
 
-**Viewer:** https://r-surrected.github.io/division-database/viewer.html  
-**Discord:** https://discord.gg/MtFWkQdzru
+**Viewer:** [https://r-surrected.github.io/division-database/viewer.html](https://r-surrected.github.io/division-database/viewer.html]) 
+**Discord:** [https://discord.gg/MtFWkQdzru](https://discord.gg/MtFWkQdzru)
 
 ---
 
