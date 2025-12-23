@@ -616,10 +616,9 @@ body.mode-ota .avatar-placeholder {
         height: 80px;
     }
 
-    /* Special thanks stays readable */
+    /* Special thanks disappears, looks ugly on mobile. */
     #special-thanks {
-        max-width: 90%;
-        font-size: 10px;
+        display:none;
     }
 }
 
@@ -637,4 +636,5 @@ body.mode-ota .avatar-placeholder {
     align-items: center;
     justify-content: center;
 }
+
 
