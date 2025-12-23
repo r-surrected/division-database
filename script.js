@@ -1,3 +1,5 @@
+let currentProfileUserId = null;
+
 // Global state
 let ccaState = {};   // userId -> info for CCA branch
 let otaState = {};   // userId -> info for OTA branch
@@ -644,6 +646,7 @@ function renderTimeline() {
     list.innerHTML = "";
 
     let events = getCurrentEvents();
+    events = [...events].reverse();
 
     if (search) {
         const s = search.toLowerCase();
@@ -697,6 +700,7 @@ function renderTimeline() {
 
 function showProfile(userId) {
     const uid = String(userId);
+    currentProfileUserId = uid;
     const state = getCurrentState();
     const events = getCurrentEvents();
 
@@ -710,6 +714,8 @@ function showProfile(userId) {
     const divisionElem = document.getElementById("profile-division");
     const rankElem = document.getElementById("profile-rank");
     const historyElem = document.getElementById("profile-history");
+    const profileLinkBtn = document.getElementById("profile-link-btn");
+
     const avatarBox = document.querySelector(".avatar-placeholder");
 
     // Avatar
@@ -730,7 +736,8 @@ function showProfile(userId) {
         divisionElem.textContent = "Division: not found in current state";
         rankElem.textContent = "Rank: n/a";
     } else {
-        usernameElem.textContent = getLatestUsername(uid, info.username);
+        const uname = getLatestUsername(uid, info.username);
+        usernameElem.textContent = uname;
         userIdElem.textContent = `User ID: ${uid}`;
 
         let divText = info.division;
@@ -856,3 +863,15 @@ async function init() {
 }
 
 window.addEventListener("DOMContentLoaded", init);
+
+
+
+// Link to Roblox profile button
+document.getElementById("profile-link-btn").addEventListener("click", () => {
+    if (!currentProfileUserId) return;
+    window.open(
+        `https://www.roblox.com/users/${currentProfileUserId}/profile`,
+        "_blank",
+        "noopener"
+    );
+});
