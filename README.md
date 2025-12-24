@@ -1,25 +1,70 @@
-# [**Click here for viewer**](https://r-surrected.github.io/division-database/viewer.html)
 
 # The Division Database
 
-[https://discord.gg/MtFWkQdzru](https://discord.gg/MtFWkQdzru)
+![Update Schedule](https://img.shields.io/badge/updates-daily-informational)
+![Backend](https://img.shields.io/badge/backend-offline%20python-blue)
+![Viewer](https://img.shields.io/badge/viewer-static-brightgreen)
+![Data Format](https://img.shields.io/badge/data-JSON-orange)
+![Hosting](https://img.shields.io/badge/hosting-GitHub%20Pages-black)
+![Status](https://img.shields.io/badge/status-active-success)
 
-## Why I made this 
-This will be quite the yap so here's a shortened version:
+**Viewer:** [https://r-surrected.github.io/division-database/viewer.html](https://r-surrected.github.io/division-database/viewer.html) 
 
-I wanted to be able to track changes in divisions, so I made a website that does that.
+**Discord:** [https://discord.gg/MtFWkQdzru](https://discord.gg/MtFWkQdzru)
 
-Longer version here:
+---
 
-I've been in the City-17 community on and off since 2020 and I have always wanted something to track the changes in all of the divisions. It would always be "this person left" or "this person joined", but how do you track all that? It became a little annoying to do this.
-I made this project to solve this problem. It tracks all divisional and OTA changes so that you don't have to. 
+## Overview
 
-## How it works
+The Division Database is a database that uses snapshots (API gets lists of everyone in divisions, gets their names and other info) to track changes over time. It tracks the changes in City-17 HL2RP's Roblox groups using an offline python script, the frontend is purely a data viewer.
 
-The database uses a python script (not in the repo) that runs scheduled (12:00 PM EST daily) on a headless computer to fetch current Roblox group data using their API. It compares it against the previously made snapshot of the data and generates events (changes) for promotions, transfers, discharges, and username changes. The data is exported to JSON files and are pushed to this repo, automatically updating the github pages site that it runs on. The viewer html file allows user to view the static data, meaning that the website does none of the fetching and the backend runs somewhere else.
+It's main goal is to be an automated system that tracks all of these changes for convienience. It's easy to look up someone's name and see a history of where they've been or what happened to them.
 
-This may seem like I go in and manually update the json but it's purely done by a python script. I wouldn't wish manual json updating on anyone. 
+The Division Dashboard refers to the data viewer itself but the database is the backend and the entire project.
 
-## Current state / updates
+---
 
-Right now I'm working on automatically updating it (actually getting the headless computer to work and stuff). Currently the username change system is breaking, so any changes just break and they are named "unknown." 
+## Why I made this
+
+I’ve been part of the City-17 community on and off since 2020, and division history has always been difficult to keep up with. In these communities, you'll constantly hear things like:
+
+- “They joined JURY”
+- “They transferred to RAZOR”
+- “They got promoted”
+- “They discharged”
+
+Even while I was still in divisions, it was still hard to track who did what. Now that there are so many more people in divisions, this is needed exponentially more.
+
+---
+
+## Architecture
+
+Data generation and data presentation are intentionally separated.
+
+The backend is a python script that calls the Roblox API for current group status, figures out the changes that have happened, exports everything to json, and pushes to this repo. 
+
+The web viewer is fully static and read-only. It does not fetch live data and performs no writes. All of the backend is done with an python script I run on a personal headless server.
+
+```mermaid
+flowchart TD
+    A[Roblox API] --> B[Scheduled Python Backend]
+    B --> C[JSON Snapshots & Events]
+    C --> D[GitHub Repository]
+    D --> E[Static Viewer]
+```
+
+---
+
+
+## Example event
+
+
+```json
+{
+  "type": "division_transfer",
+  "user": "ExampleUser",
+  "from": "JURY",
+  "to": "RAZOR",
+  "date": "2025-01-14"
+}
+```

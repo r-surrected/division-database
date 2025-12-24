@@ -513,3 +513,128 @@ body.mode-ota .avatar-placeholder {
     color: #ff4545;
     box-shadow: 0 0 14px rgba(255, 69, 69, 0.9);
 }
+
+/* ============================
+   MOBILE RESPONSIVE OVERRIDES
+   ============================ */
+
+@media (max-width: 768px) {
+
+    /* App layout stacks vertically */
+    #app {
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    /* Sidebar becomes top bar */
+    #sidebar {
+        width: 100%;
+        padding: 12px 14px;
+        flex-direction: column;
+        border-right: none;
+        border-bottom: 1px solid #1f2937;
+    }
+
+    .sidebar-header {
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+
+    .sidebar-title {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    /* Nav buttons go horizontal */
+    .sidebar-nav {
+        flex-direction: row;
+        gap: 6px;
+        justify-content: center;
+    }
+
+    .nav-button {
+        flex: 1;
+        text-align: center;
+        font-size: 13px;
+        padding: 8px 10px;
+    }
+
+    .mode-toggle-button {
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+
+    #main {
+        padding: 16px 14px;
+    }
+
+    #main-header h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #main-header p {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .panel {
+        padding: 14px 14px 16px;
+    }
+
+    .division-button {
+        font-size: 12px;
+        padding: 8px 10px;
+    }
+
+    .search-box {
+        flex-direction: column;
+        gap: 6px;
+    }
+
+    .search-box button {
+        width: 100%;
+    }
+
+    .timeline-controls input {
+        width: 100%;
+    }
+
+    .profile-header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .profile-main-info h2 {
+        font-size: 17px;
+    }
+
+    /* Avatar slightly smaller */
+    .avatar-placeholder {
+        width: 80px;
+        height: 80px;
+    }
+
+    /* Special thanks disappears, looks ugly on mobile. */
+    #special-thanks {
+        display:none;
+    }
+}
+
+/* Make anchor nav-buttons visually identical to button nav-buttons */
+.nav-button {
+    text-decoration: none;
+}
+
+.nav-button:visited {
+    color: inherit;
+}
+
+.nav-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
