@@ -1065,5 +1065,45 @@
         "new_division": "DAGGER",
         "rank_name": "Tier III",
         "rank_value": 3
+    },
+    {
+        "date": "2025-12-24",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 2281997910,
+        "username": "THE_LAMASH",
+        "division": "RAZOR",
+        "old_rank_name": "Field Officer",
+        "old_rank_value": 8
+    },
+    {
+        "date": "2025-12-24",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 7460001509,
+        "username": null,
+        "division": "RAZOR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-24",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 1137238380,
+        "username": "Therealparadox11",
+        "division": "RAZOR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-24",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 766553571,
+        "username": "RickyBaldi",
+        "division": "RAZOR",
+        "old_rank_name": "Squadron Leader",
+        "old_rank_value": 9
     }
 ]
