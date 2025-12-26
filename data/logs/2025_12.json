@@ -1127,5 +1127,26 @@
         "old_rank_value": 3,
         "new_rank_name": "D3 Protection Unit",
         "new_rank_value": 4
+    },
+    {
+        "date": "2025-12-26",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 1164355984,
+        "username": null,
+        "division": "RAZOR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-26",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 153879806,
+        "username": "3kChakaz",
+        "old_division": "PHANTOM",
+        "new_division": "OTA",
+        "rank_name": "Overwatch Leader",
+        "rank_value": 4
     }
 ]
