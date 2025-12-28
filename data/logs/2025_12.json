@@ -1148,5 +1148,15 @@
         "new_division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
+    },
+    {
+        "date": "2025-12-28",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 655937760,
+        "username": "crnwy",
+        "division": "RAZOR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3
     }
 ]
