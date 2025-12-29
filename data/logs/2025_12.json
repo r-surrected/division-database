@@ -1158,5 +1158,99 @@
         "division": "RAZOR",
         "old_rank_name": "D4 Protection Unit",
         "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-29",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 2515289080,
+        "username": "Wig_Watch",
+        "division": "SPEAR",
+        "old_rank_name": "D2 Protection Unit",
+        "old_rank_value": 5
+    },
+    {
+        "date": "2025-12-29",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 2240817225,
+        "username": null,
+        "division": "RAZOR",
+        "old_rank_name": "Recruit",
+        "old_rank_value": 1,
+        "new_rank_name": "D5 Protection Unit",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2025-12-29",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 2729536602,
+        "username": null,
+        "division": "RAZOR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2,
+        "new_rank_name": "D4 Protection Unit",
+        "new_rank_value": 3
+    },
+    {
+        "date": "2025-12-29",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 893557274,
+        "username": null,
+        "division": "RAZOR",
+        "old_rank_name": "Recruit",
+        "old_rank_value": 1,
+        "new_rank_name": "D5 Protection Unit",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2025-12-29",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 2789140079,
+        "username": "MightyrafiaV",
+        "division": "SPEAR",
+        "old_rank_name": "D3 Protection Unit",
+        "old_rank_value": 4,
+        "new_rank_name": "D2 Protection Unit",
+        "new_rank_value": 5
+    },
+    {
+        "date": "2025-12-29",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 2607331438,
+        "username": null,
+        "division": "RAZOR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2,
+        "new_rank_name": "D4 Protection Unit",
+        "new_rank_value": 3
+    },
+    {
+        "date": "2025-12-29",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 76497263,
+        "username": null,
+        "division": "RAZOR",
+        "old_rank_name": "Recruit",
+        "old_rank_value": 1,
+        "new_rank_name": "D5 Protection Unit",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2025-12-29",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 1565084764,
+        "username": "Z9Kaxence",
+        "division": "RAZOR",
+        "old_rank_name": "D3 Protection Unit",
+        "old_rank_value": 4,
+        "new_rank_name": "D2 Protection Unit",
+        "new_rank_value": 5
     }
 ]

@@ -36,21 +36,21 @@
     },
     "424432981": {
         "username": "SuperEpicLolMaster",
-        "username_checked": "2025-12-22",
+        "username_checked": "2025-12-29",
         "division": "RAZOR",
         "rank_name": "D1 Protection Unit",
         "rank_value": 6
     },
     "1339741167": {
         "username": "KINGKRAKEN13324",
-        "username_checked": "2025-12-22",
+        "username_checked": "2025-12-29",
         "division": "RAZOR",
         "rank_name": "Field Officer",
         "rank_value": 8
     },
     "841760692": {
         "username": "Celopan4747PRO",
-        "username_checked": "2025-12-22",
+        "username_checked": "2025-12-29",
         "division": "RAZOR",
         "rank_name": "Elite Protection Unit",
         "rank_value": 7
@@ -199,8 +199,8 @@
         "username": "Z9Kaxence",
         "username_checked": "2025-12-24",
         "division": "RAZOR",
-        "rank_name": "D3 Protection Unit",
-        "rank_value": 4
+        "rank_name": "D2 Protection Unit",
+        "rank_value": 5
     },
     "1516073428": {
         "username": "DerwahreImperator2",
@@ -241,15 +241,15 @@
         "username": null,
         "username_checked": "2025-12-18",
         "division": "RAZOR",
-        "rank_name": "D5 Protection Unit",
-        "rank_value": 2
+        "rank_name": "D4 Protection Unit",
+        "rank_value": 3
     },
     "2240817225": {
         "username": null,
         "username_checked": "2025-12-18",
         "division": "RAZOR",
-        "rank_name": "Recruit",
-        "rank_value": 1
+        "rank_name": "D5 Protection Unit",
+        "rank_value": 2
     },
     "499949322": {
         "username": null,
@@ -262,8 +262,8 @@
         "username": null,
         "username_checked": "2025-12-19",
         "division": "RAZOR",
-        "rank_name": "Recruit",
-        "rank_value": 1
+        "rank_name": "D5 Protection Unit",
+        "rank_value": 2
     },
     "8305274822": {
         "username": null,
@@ -276,8 +276,8 @@
         "username": null,
         "username_checked": null,
         "division": "RAZOR",
-        "rank_name": "Recruit",
-        "rank_value": 1
+        "rank_name": "D5 Protection Unit",
+        "rank_value": 2
     },
     "3543004083": {
         "username": null,
@@ -304,7 +304,7 @@
         "username": null,
         "username_checked": null,
         "division": "RAZOR",
-        "rank_name": "D5 Protection Unit",
-        "rank_value": 2
+        "rank_name": "D4 Protection Unit",
+        "rank_value": 3
     }
 }
