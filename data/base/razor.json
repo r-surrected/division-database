@@ -57,21 +57,21 @@
     },
     "1070260190": {
         "username": "gm_RETR0",
-        "username_checked": "2025-12-22",
+        "username_checked": "2025-12-30",
         "division": "RAZOR",
         "rank_name": "D1 Protection Unit",
         "rank_value": 6
     },
     "529595362": {
         "username": "0x_dc",
-        "username_checked": "2025-12-22",
+        "username_checked": "2025-12-30",
         "division": "RAZOR",
         "rank_name": "Squadron Leader",
         "rank_value": 9
     },
     "430870888": {
         "username": "MaximilianBoettcher",
-        "username_checked": "2025-12-22",
+        "username_checked": "2025-12-30",
         "division": "RAZOR",
         "rank_name": "Elite Protection Unit",
         "rank_value": 7
@@ -229,13 +229,6 @@
         "division": "RAZOR",
         "rank_name": "Recruit",
         "rank_value": 1
-    },
-    "1781336876": {
-        "username": "ROBlNGLES",
-        "username_checked": "2025-12-25",
-        "division": "RAZOR",
-        "rank_name": "D4 Protection Unit",
-        "rank_value": 3
     },
     "2729536602": {
         "username": null,

@@ -1252,5 +1252,37 @@
         "old_rank_value": 4,
         "new_rank_name": "D2 Protection Unit",
         "new_rank_value": 5
+    },
+    {
+        "date": "2025-12-30",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 379439619,
+        "username": "warguy11234",
+        "division": "SPEAR",
+        "old_rank_name": "D3 Protection Unit",
+        "old_rank_value": 4
+    },
+    {
+        "date": "2025-12-30",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 1781336876,
+        "username": "ROBlNGLES",
+        "division": "RAZOR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-30",
+        "branch": "CCA",
+        "type": "demotion",
+        "user_id": 896803088,
+        "username": "dovaris",
+        "division": "JURY",
+        "old_rank_name": "D2 Protection Unit",
+        "old_rank_value": 5,
+        "new_rank_name": "D3 Protection Unit",
+        "new_rank_value": 4
     }
 ]
