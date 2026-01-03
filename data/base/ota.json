@@ -1,21 +1,21 @@
 {
     "76949844": {
         "username": "Solarvyr",
-        "username_checked": "2025-12-27",
+        "username_checked": "2026-01-03",
         "division": "OTA",
         "rank_name": "Overwatch Captain",
         "rank_value": 6
     },
     "2509926394": {
         "username": "UniversalBenefactor",
-        "username_checked": "2025-12-27",
+        "username_checked": "2026-01-03",
         "division": "OTA",
         "rank_name": "Earth Administrator",
         "rank_value": 9
     },
     "281014177": {
         "username": "DeemedSuccess",
-        "username_checked": "2025-12-27",
+        "username_checked": "2026-01-03",
         "division": "OTA",
         "rank_name": "Overwatch Captain",
         "rank_value": 6
@@ -29,7 +29,7 @@
     },
     "186027613": {
         "username": "Mephidanttes",
-        "username_checked": "2025-12-27",
+        "username_checked": "2026-01-03",
         "division": "OTA",
         "rank_name": "Overwatch Commander",
         "rank_value": 7
@@ -43,7 +43,7 @@
     },
     "15685343": {
         "username": "WantedMellon",
-        "username_checked": "2025-12-27",
+        "username_checked": "2026-01-03",
         "division": "OTA",
         "rank_name": "Overwatch Captain",
         "rank_value": 6
@@ -387,9 +387,9 @@
     "3300800349": {
         "username": "Szmig0L",
         "username_checked": "2025-12-25",
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "132338272": {
         "username": "DeltaVasilia",
@@ -422,9 +422,9 @@
     "450816973": {
         "username": "kzytq",
         "username_checked": "2025-12-24",
-        "division": "DAGGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "542223891": {
         "username": "GoldMax7777",
@@ -471,9 +471,9 @@
     "491042709": {
         "username": "jiearXD",
         "username_checked": "2025-12-24",
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "821807256": {
         "username": "almog_levi",
@@ -513,9 +513,9 @@
     "86012139": {
         "username": "iEckstra",
         "username_checked": null,
-        "division": "RANGER",
-        "rank_name": "Tier II",
-        "rank_value": 2
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "753682407": {
         "username": "xmasrex14",
@@ -593,12 +593,5 @@
         "division": "ECHO",
         "rank_name": "Tier II",
         "rank_value": 2
-    },
-    "234067487": {
-        "username": "Iaurib",
-        "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
     }
 }

@@ -30,5 +30,59 @@
         "division": "RAZOR",
         "old_rank_name": "D5 Protection Unit",
         "old_rank_value": 2
+    },
+    {
+        "date": "2026-01-03",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 234067487,
+        "username": "Iaurib",
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2026-01-03",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 450816973,
+        "username": "kzytq",
+        "old_division": "DAGGER",
+        "new_division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-03",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 491042709,
+        "username": "jiearXD",
+        "old_division": "RANGER",
+        "new_division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-03",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 3300800349,
+        "username": "Szmig0L",
+        "old_division": "RANGER",
+        "new_division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-03",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 86012139,
+        "username": "iEckstra",
+        "old_division": "RANGER",
+        "new_division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
     }
 ]
