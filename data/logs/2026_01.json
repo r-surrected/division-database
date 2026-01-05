@@ -84,5 +84,96 @@
         "new_division": "ECHO",
         "rank_name": "Tier III",
         "rank_value": 3
+    },
+    {
+        "date": "2026-01-04",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 2919848899,
+        "username": "TuggieWasTaken",
+        "division": "JURY",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7,
+        "new_rank_name": "Field Officer",
+        "new_rank_value": 8
+    },
+    {
+        "date": "2026-01-04",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 1799884964,
+        "username": "ViddeHH2020",
+        "division": "JURY",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7,
+        "new_rank_name": "Field Officer",
+        "new_rank_value": 8
+    },
+    {
+        "date": "2026-01-04",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 295819919,
+        "username": "UnderScoreKayla",
+        "division": "JURY",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7,
+        "new_rank_name": "Field Officer",
+        "new_rank_value": 8
+    },
+    {
+        "date": "2026-01-04",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 4241788563,
+        "username": "aka_celestmoon",
+        "division": "RAZOR",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7,
+        "new_rank_name": "Field Officer",
+        "new_rank_value": 8
+    },
+    {
+        "date": "2026-01-04",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 430870888,
+        "username": "MaximilianBoettcher",
+        "division": "RAZOR",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7,
+        "new_rank_name": "Field Officer",
+        "new_rank_value": 8
+    },
+    {
+        "date": "2026-01-04",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 36718909,
+        "username": "Opsideo",
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2026-01-04",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 491042709,
+        "username": "jiearXD",
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2026-01-04",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 542223891,
+        "username": "GoldMax7777",
+        "old_division": "DAGGER",
+        "new_division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
     }
 ]
