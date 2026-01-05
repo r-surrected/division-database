@@ -112,7 +112,8 @@ function getLatestUsername(userId, fallback) {
 async function getLogFileList() {
     console.log("DEBUG getLogFileList CALLED");
     return [
-        "2025_12.json"
+        "2025_12.json",
+        "2026_01.json"
     ];
 }
 
