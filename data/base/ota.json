@@ -65,7 +65,7 @@
     "1113369732": {
         "username": "GoIdbust",
         "username_checked": "2026-01-04",
-        "division": "ECHO",
+        "division": "KING",
         "rank_name": "Tier III",
         "rank_value": 3
     },
@@ -106,35 +106,35 @@
     },
     "1530840652": {
         "username": "InfragiIity",
-        "username_checked": "2025-12-30",
+        "username_checked": "2026-01-06",
         "division": "OTA",
         "rank_name": "Overwatch Officer",
         "rank_value": 5
     },
     "457826824": {
         "username": "frezepolice",
-        "username_checked": "2025-12-30",
+        "username_checked": "2026-01-06",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "590563388": {
         "username": "Raideriuz",
-        "username_checked": "2025-12-30",
+        "username_checked": "2026-01-06",
         "division": "KING",
         "rank_name": "Tier II",
         "rank_value": 2
     },
     "16231952": {
         "username": "DexClassic",
-        "username_checked": "2025-12-30",
+        "username_checked": "2026-01-06",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "215230160": {
         "username": "yummychains",
-        "username_checked": "2025-12-30",
+        "username_checked": "2026-01-06",
         "division": "OTA",
         "rank_name": "Overwatch Officer",
         "rank_value": 5
@@ -247,7 +247,7 @@
     "362136537": {
         "username": "r_surgent",
         "username_checked": "2026-01-04",
-        "division": "ECHO",
+        "division": "KING",
         "rank_name": "Tier III",
         "rank_value": 3
     },
@@ -283,8 +283,8 @@
         "username": "mudkip0123",
         "username_checked": "2025-12-22",
         "division": "OTA",
-        "rank_name": "Overwatch Leader",
-        "rank_value": 4
+        "rank_name": "Overwatch Officer",
+        "rank_value": 5
     },
     "114914679": {
         "username": "Aaron0708",
@@ -380,13 +380,6 @@
     "346838092": {
         "username": "Agent055008",
         "username_checked": "2025-12-25",
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "3300800349": {
-        "username": "Szmig0L",
-        "username_checked": "2025-12-25",
         "division": "ECHO",
         "rank_name": "Tier III",
         "rank_value": 3
@@ -464,9 +457,9 @@
     "821807256": {
         "username": "almog_levi",
         "username_checked": "2025-12-24",
-        "division": "RANGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "OTA",
+        "rank_name": "Overwatch Leader",
+        "rank_value": 4
     },
     "1919223526": {
         "username": "Sir_Alex2246",
@@ -486,8 +479,8 @@
         "username": "SeaYux",
         "username_checked": null,
         "division": "RANGER",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "29280649": {
         "username": "Sharkman404",
@@ -507,8 +500,8 @@
         "username": "xmasrex14",
         "username_checked": null,
         "division": "RANGER",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "2236336611": {
         "username": "trxck3er",
@@ -528,8 +521,8 @@
         "username": "777Qubec777",
         "username_checked": null,
         "division": "RANGER",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "1993588074": {
         "username": "Operative_Unit",

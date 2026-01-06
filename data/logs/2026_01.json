@@ -222,5 +222,153 @@
         "old_rank_value": 3,
         "new_rank_name": "Tier II",
         "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 828383624,
+        "username": "PeltdaysTheSecond",
+        "division": "RAZOR",
+        "old_rank_name": "D1 Protection Unit",
+        "old_rank_value": 6
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 44700403,
+        "username": "CozyCinder",
+        "division": "RAZOR",
+        "old_rank_name": "D2 Protection Unit",
+        "old_rank_value": 5,
+        "new_rank_name": "D1 Protection Unit",
+        "new_rank_value": 6
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 8305274822,
+        "username": null,
+        "division": "RAZOR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2,
+        "new_rank_name": "D4 Protection Unit",
+        "new_rank_value": 3
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 1745061105,
+        "username": null,
+        "division": "RAZOR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2,
+        "new_rank_name": "D4 Protection Unit",
+        "new_rank_value": 3
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 3300800349,
+        "username": "Szmig0L",
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 346838092,
+        "username": "Agent055008",
+        "old_division": "RANGER",
+        "new_division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "OTA",
+        "type": "demotion",
+        "user_id": 108224464,
+        "username": "mudkip0123",
+        "division": "OTA",
+        "old_rank_name": "Overwatch Leader",
+        "old_rank_value": 4,
+        "new_rank_name": "Overwatch Officer",
+        "new_rank_value": 5
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 662240777,
+        "username": "777Qubec777",
+        "division": "RANGER",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3,
+        "new_rank_name": "Tier II",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 362136537,
+        "username": "r_surgent",
+        "old_division": "ECHO",
+        "new_division": "KING",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1113369732,
+        "username": "GoIdbust",
+        "old_division": "ECHO",
+        "new_division": "KING",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 821807256,
+        "username": "almog_levi",
+        "old_division": "RANGER",
+        "new_division": "OTA",
+        "rank_name": "Overwatch Leader",
+        "rank_value": 4
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 4402557269,
+        "username": "SeaYux",
+        "division": "RANGER",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3,
+        "new_rank_name": "Tier II",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-06",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 753682407,
+        "username": "xmasrex14",
+        "division": "RANGER",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3,
+        "new_rank_name": "Tier II",
+        "new_rank_value": 2
     }
 ]
