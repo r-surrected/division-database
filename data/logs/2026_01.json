@@ -370,5 +370,83 @@
         "old_rank_value": 3,
         "new_rank_name": "Tier II",
         "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-07",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 10084636648,
+        "username": null,
+        "division": "SPEAR",
+        "old_rank_name": "Recruit",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2026-01-07",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 881250546,
+        "username": "flamingofan2034",
+        "division": "SPEAR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3,
+        "new_rank_name": "D3 Protection Unit",
+        "new_rank_value": 4
+    },
+    {
+        "date": "2026-01-07",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 2789140079,
+        "username": "MightyrafiaV",
+        "division": "SPEAR",
+        "old_rank_name": "D2 Protection Unit",
+        "old_rank_value": 5,
+        "new_rank_name": "D1 Protection Unit",
+        "new_rank_value": 6
+    },
+    {
+        "date": "2026-01-07",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 2766451208,
+        "username": "IDontGottaTellUTwice",
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2026-01-07",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 1409374,
+        "username": "Edvin96",
+        "division": "DAGGER",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3,
+        "new_rank_name": "Tier II",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-07",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1167240489,
+        "username": "Robloxian472713356",
+        "old_division": "ECHO",
+        "new_division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-07",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 65887411,
+        "username": "TalksInHuman",
+        "old_division": "ECHO",
+        "new_division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     }
 ]

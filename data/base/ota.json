@@ -141,35 +141,35 @@
     },
     "1196415137": {
         "username": "90gq31",
-        "username_checked": "2025-12-31",
+        "username_checked": "2026-01-07",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "90348463": {
         "username": "Vulrezz",
-        "username_checked": "2025-12-31",
+        "username_checked": "2026-01-07",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "105326410": {
         "username": "PilotClassic",
-        "username_checked": "2025-12-31",
+        "username_checked": "2026-01-07",
         "division": "OTA",
         "rank_name": "Overwatch Officer",
         "rank_value": 5
     },
     "57896758": {
         "username": "IEmperorOfMankind",
-        "username_checked": "2025-12-31",
+        "username_checked": "2026-01-07",
         "division": "ECHO",
         "rank_name": "Tier III",
         "rank_value": 3
     },
     "105716990": {
         "username": "GardeImperial",
-        "username_checked": "2025-12-31",
+        "username_checked": "2026-01-07",
         "division": "KING",
         "rank_name": "Tier I",
         "rank_value": 1
@@ -401,16 +401,9 @@
     "65887411": {
         "username": "TalksInHuman",
         "username_checked": "2025-12-26",
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
-    "2766451208": {
-        "username": "IDontGottaTellUTwice",
-        "username_checked": "2025-12-26",
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "450816973": {
         "username": "kzytq",
@@ -549,8 +542,8 @@
         "username": "Edvin96",
         "username_checked": null,
         "division": "DAGGER",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "7225765909": {
         "username": "8O8_DEAD2",
@@ -569,8 +562,8 @@
     "1167240489": {
         "username": "Robloxian472713356",
         "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     }
 }
