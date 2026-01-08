@@ -448,5 +448,15 @@
         "new_division": "DAGGER",
         "rank_name": "Tier III",
         "rank_value": 3
+    },
+    {
+        "date": "2026-01-08",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1530840652,
+        "username": "InfragiIity",
+        "division": "OTA",
+        "old_rank_name": "Overwatch Officer",
+        "old_rank_value": 5
     }
 ]
