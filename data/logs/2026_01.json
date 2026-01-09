@@ -458,5 +458,118 @@
         "division": "OTA",
         "old_rank_name": "Overwatch Officer",
         "old_rank_value": 5
+    },
+    {
+        "date": "2026-01-09",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1108730332,
+        "username": "iamDeathskull",
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2026-01-09",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 353382054,
+        "username": "WraithVortex1",
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2026-01-09",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 2236336611,
+        "username": "trxck3er",
+        "old_division": "ECHO",
+        "new_division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-09",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 378484133,
+        "username": "ahhamadhx",
+        "division": "PHANTOM",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3,
+        "new_rank_name": "Tier II",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-09",
+        "branch": "OTA",
+        "type": "demotion",
+        "user_id": 3859761014,
+        "username": "BrickLord787",
+        "division": "PHANTOM",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1,
+        "new_rank_name": "Tier II",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-09",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 490641088,
+        "username": "ninjarules994",
+        "division": "PHANTOM",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2,
+        "new_rank_name": "Tier I",
+        "new_rank_value": 1
+    },
+    {
+        "date": "2026-01-09",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 240841006,
+        "username": "1_sqd",
+        "division": "PHANTOM",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3,
+        "new_rank_name": "Tier II",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-09",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1536968033,
+        "username": "Aimbo45",
+        "old_division": "DAGGER",
+        "new_division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-09",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 114914679,
+        "username": "Aaron0708",
+        "division": "PHANTOM",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2,
+        "new_rank_name": "Tier I",
+        "new_rank_value": 1
+    },
+    {
+        "date": "2026-01-09",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1273257926,
+        "username": "Autonomous_Unit",
+        "old_division": "DAGGER",
+        "new_division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
     }
 ]

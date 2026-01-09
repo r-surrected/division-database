@@ -20,13 +20,6 @@
         "rank_name": "Overwatch Captain",
         "rank_value": 6
     },
-    "1108730332": {
-        "username": "iamDeathskull",
-        "username_checked": "2026-01-04",
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
     "186027613": {
         "username": "Mephidanttes",
         "username_checked": "2026-01-03",
@@ -52,8 +45,8 @@
         "username": "ahhamadhx",
         "username_checked": "2026-01-04",
         "division": "PHANTOM",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "87069773": {
         "username": "STAFIST",
@@ -72,9 +65,9 @@
     "1273257926": {
         "username": "Autonomous_Unit",
         "username_checked": "2026-01-05",
-        "division": "DAGGER",
-        "rank_name": "Tier II",
-        "rank_value": 2
+        "division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "207709603": {
         "username": "HertzLV",
@@ -185,8 +178,8 @@
         "username": "1_sqd",
         "username_checked": "2026-01-08",
         "division": "PHANTOM",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "2431405557": {
         "username": "min6eito",
@@ -202,37 +195,30 @@
         "rank_name": "Tier I",
         "rank_value": 1
     },
-    "353382054": {
-        "username": "WraithVortex1",
-        "username_checked": "2026-01-02",
-        "division": "ECHO",
-        "rank_name": "Tier I",
-        "rank_value": 1
-    },
     "1346443058": {
         "username": "Asynthetics",
-        "username_checked": "2026-01-02",
+        "username_checked": "2026-01-09",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "1257092449": {
         "username": "MasterDodgy",
-        "username_checked": "2026-01-02",
+        "username_checked": "2026-01-09",
         "division": "KING",
         "rank_name": "Tier II",
         "rank_value": 2
     },
     "1116603715": {
         "username": "NiNjayuo99",
-        "username_checked": "2026-01-02",
+        "username_checked": "2026-01-09",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "568989893": {
         "username": "CH0KL4TE",
-        "username_checked": "2026-01-02",
+        "username_checked": "2026-01-09",
         "division": "KING",
         "rank_name": "Tier III",
         "rank_value": 3
@@ -248,8 +234,8 @@
         "username": "ninjarules994",
         "username_checked": "2026-01-04",
         "division": "PHANTOM",
-        "rank_name": "Tier II",
-        "rank_value": 2
+        "rank_name": "Tier I",
+        "rank_value": 1
     },
     "96571370": {
         "username": "Excalitar",
@@ -274,7 +260,7 @@
     },
     "108224464": {
         "username": "mudkip0123",
-        "username_checked": "2025-12-22",
+        "username_checked": "2026-01-09",
         "division": "OTA",
         "rank_name": "Overwatch Officer",
         "rank_value": 5
@@ -283,15 +269,15 @@
         "username": "Aaron0708",
         "username_checked": "2025-12-23",
         "division": "PHANTOM",
-        "rank_name": "Tier II",
-        "rank_value": 2
+        "rank_name": "Tier I",
+        "rank_value": 1
     },
     "3859761014": {
         "username": "BrickLord787",
         "username_checked": "2025-12-23",
         "division": "PHANTOM",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "1921534380": {
         "username": "DxtaFox",
@@ -345,9 +331,9 @@
     "1536968033": {
         "username": "Aimbo45",
         "username_checked": "2025-12-25",
-        "division": "DAGGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "1945409980": {
         "username": "kasvria",
@@ -492,7 +478,7 @@
     "2236336611": {
         "username": "trxck3er",
         "username_checked": null,
-        "division": "ECHO",
+        "division": "PHANTOM",
         "rank_name": "Tier III",
         "rank_value": 3
     },
