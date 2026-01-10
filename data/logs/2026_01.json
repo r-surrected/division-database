@@ -571,5 +571,15 @@
         "new_division": "PHANTOM",
         "rank_name": "Tier III",
         "rank_value": 3
+    },
+    {
+        "date": "2026-01-10",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 3859761014,
+        "username": "BrickLord787",
+        "division": "PHANTOM",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
     }
 ]
