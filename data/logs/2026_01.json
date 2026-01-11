@@ -581,5 +581,80 @@
         "division": "PHANTOM",
         "old_rank_name": "Tier II",
         "old_rank_value": 2
+    },
+    {
+        "date": "2026-01-11",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 466974415,
+        "username": "oakley072017",
+        "division": "SPEAR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2026-01-11",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 1174091779,
+        "username": "icetybe97",
+        "division": "SPEAR",
+        "old_rank_name": "D3 Protection Unit",
+        "old_rank_value": 4
+    },
+    {
+        "date": "2026-01-11",
+        "branch": "CCA",
+        "type": "demotion",
+        "user_id": 739761862,
+        "username": "111x5",
+        "division": "SPEAR",
+        "old_rank_name": "Senior Instructor",
+        "old_rank_value": 8,
+        "new_rank_name": "Field Officer",
+        "new_rank_value": 8
+    },
+    {
+        "date": "2026-01-11",
+        "branch": "CCA",
+        "type": "division_transfer",
+        "user_id": 739761862,
+        "username": "111x5",
+        "old_division": "ACADEMY",
+        "new_division": "SPEAR",
+        "rank_name": "Field Officer",
+        "rank_value": 8
+    },
+    {
+        "date": "2026-01-11",
+        "branch": "CCA",
+        "type": "division_transfer",
+        "user_id": 3831149202,
+        "username": "Real_Ender567",
+        "old_division": "JURY",
+        "new_division": "SPEAR",
+        "rank_name": "Elite Protection Unit",
+        "rank_value": 7
+    },
+    {
+        "date": "2026-01-11",
+        "branch": "CCA",
+        "type": "division_transfer",
+        "user_id": 1558819733,
+        "username": "kourampies270",
+        "old_division": "JURY",
+        "new_division": "SPEAR",
+        "rank_name": "Elite Protection Unit",
+        "rank_value": 7
+    },
+    {
+        "date": "2026-01-11",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 107874545,
+        "username": "W_alIcroft",
+        "division": "PHANTOM",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
     }
 ]

@@ -8,21 +8,21 @@
     },
     "1478933097": {
         "username": "MrBrit44",
-        "username_checked": "2026-01-04",
+        "username_checked": "2026-01-11",
         "division": "SPEAR",
         "rank_name": "Division Leader",
         "rank_value": 10
     },
     "1236041153": {
         "username": "MarkSpinsYT",
-        "username_checked": "2026-01-04",
+        "username_checked": "2026-01-11",
         "division": "SPEAR",
         "rank_name": "Field Officer",
         "rank_value": 8
     },
     "355496464": {
         "username": "dsung",
-        "username_checked": "2026-01-04",
+        "username_checked": "2026-01-11",
         "division": "SPEAR",
         "rank_name": "D4 Protection Unit",
         "rank_value": 3
@@ -89,6 +89,13 @@
         "division": "SPEAR",
         "rank_name": "Elite Protection Unit",
         "rank_value": 7
+    },
+    "739761862": {
+        "username": "111x5",
+        "username_checked": "2026-01-07",
+        "division": "SPEAR",
+        "rank_name": "Field Officer",
+        "rank_value": 8
     },
     "3180975946": {
         "username": "VersusIsTaken",
@@ -265,13 +272,6 @@
         "rank_name": "D4 Protection Unit",
         "rank_value": 3
     },
-    "466974415": {
-        "username": "oakley072017",
-        "username_checked": "2025-12-26",
-        "division": "SPEAR",
-        "rank_name": "D4 Protection Unit",
-        "rank_value": 3
-    },
     "608532803": {
         "username": "Kulas_Kulit",
         "username_checked": "2025-12-13",
@@ -302,13 +302,6 @@
     },
     "1046437909": {
         "username": "ChillManBowser",
-        "username_checked": "2025-12-13",
-        "division": "SPEAR",
-        "rank_name": "D3 Protection Unit",
-        "rank_value": 4
-    },
-    "1174091779": {
-        "username": "icetybe97",
         "username_checked": "2025-12-13",
         "division": "SPEAR",
         "rank_name": "D3 Protection Unit",
@@ -411,5 +404,19 @@
         "division": "SPEAR",
         "rank_name": "Recruit",
         "rank_value": 1
+    },
+    "1558819733": {
+        "username": "kourampies270",
+        "username_checked": "2025-12-24",
+        "division": "SPEAR",
+        "rank_name": "Elite Protection Unit",
+        "rank_value": 7
+    },
+    "3831149202": {
+        "username": "Real_Ender567",
+        "username_checked": "2026-01-04",
+        "division": "SPEAR",
+        "rank_name": "Elite Protection Unit",
+        "rank_value": 7
     }
 }
