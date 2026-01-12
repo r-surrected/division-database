@@ -64,28 +64,28 @@
     },
     "1273257926": {
         "username": "Autonomous_Unit",
-        "username_checked": "2026-01-05",
+        "username_checked": "2026-01-12",
         "division": "PHANTOM",
         "rank_name": "Tier III",
         "rank_value": 3
     },
     "207709603": {
         "username": "HertzLV",
-        "username_checked": "2026-01-05",
+        "username_checked": "2026-01-12",
         "division": "OTA",
         "rank_name": "Overwatch Captain",
         "rank_value": 6
     },
     "36744697": {
         "username": "qsawz",
-        "username_checked": "2026-01-05",
+        "username_checked": "2026-01-12",
         "division": "OTA",
         "rank_name": "Overwatch Captain",
         "rank_value": 6
     },
     "54231194": {
         "username": "GeneralHell",
-        "username_checked": "2026-01-05",
+        "username_checked": "2026-01-12",
         "division": "PHANTOM",
         "rank_name": "Tier II",
         "rank_value": 2
@@ -225,7 +225,7 @@
     },
     "490641088": {
         "username": "ninjarules994",
-        "username_checked": "2026-01-04",
+        "username_checked": "2026-01-12",
         "division": "PHANTOM",
         "rank_name": "Tier I",
         "rank_value": 1
@@ -345,7 +345,7 @@
     "346838092": {
         "username": "Agent055008",
         "username_checked": "2025-12-25",
-        "division": "ECHO",
+        "division": "DAGGER",
         "rank_name": "Tier III",
         "rank_value": 3
     },
@@ -367,13 +367,6 @@
         "username": "TalksInHuman",
         "username_checked": "2025-12-26",
         "division": "DAGGER",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
-    "450816973": {
-        "username": "kzytq",
-        "username_checked": "2025-12-24",
-        "division": "ECHO",
         "rank_name": "Tier III",
         "rank_value": 3
     },
@@ -485,9 +478,9 @@
     "1993588074": {
         "username": "Operative_Unit",
         "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier II",
-        "rank_value": 2
+        "division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "7904301331": {
         "username": "lmperatorPrime",
@@ -528,6 +521,48 @@
         "username": "Robloxian472713356",
         "username_checked": null,
         "division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    "2393507263": {
+        "username": null,
+        "username_checked": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    "1276326422": {
+        "username": null,
+        "username_checked": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    "1717424396": {
+        "username": null,
+        "username_checked": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    "1749547424": {
+        "username": null,
+        "username_checked": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    "3997005008": {
+        "username": null,
+        "username_checked": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    "793234125": {
+        "username": null,
+        "username_checked": null,
+        "division": "ECHO",
         "rank_name": "Tier III",
         "rank_value": 3
     }

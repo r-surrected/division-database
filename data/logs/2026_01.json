@@ -656,5 +656,107 @@
         "division": "PHANTOM",
         "old_rank_name": "Tier III",
         "old_rank_value": 3
+    },
+    {
+        "date": "2026-01-12",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 456087362,
+        "username": "Mikim_X",
+        "division": "JURY",
+        "old_rank_name": "D3 Protection Unit",
+        "old_rank_value": 4
+    },
+    {
+        "date": "2026-01-12",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1717424396,
+        "username": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-12",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 3997005008,
+        "username": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-12",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 793234125,
+        "username": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-12",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 2393507263,
+        "username": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-12",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1749547424,
+        "username": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-12",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1276326422,
+        "username": null,
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-12",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 450816973,
+        "username": "kzytq",
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2026-01-12",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 346838092,
+        "username": "Agent055008",
+        "old_division": "ECHO",
+        "new_division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2026-01-12",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1993588074,
+        "username": "Operative_Unit",
+        "old_division": "ECHO",
+        "new_division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     }
 ]
