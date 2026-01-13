@@ -92,28 +92,28 @@
     },
     "457826824": {
         "username": "frezepolice",
-        "username_checked": "2026-01-06",
+        "username_checked": "2026-01-13",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "590563388": {
         "username": "Raideriuz",
-        "username_checked": "2026-01-06",
+        "username_checked": "2026-01-13",
         "division": "KING",
         "rank_name": "Tier II",
         "rank_value": 2
     },
     "16231952": {
         "username": "DexClassic",
-        "username_checked": "2026-01-06",
+        "username_checked": "2026-01-13",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "215230160": {
         "username": "yummychains",
-        "username_checked": "2026-01-06",
+        "username_checked": "2026-01-13",
         "division": "OTA",
         "rank_name": "Overwatch Officer",
         "rank_value": 5
@@ -232,7 +232,7 @@
     },
     "96571370": {
         "username": "Excalitar",
-        "username_checked": "2026-01-04",
+        "username_checked": "2026-01-13",
         "division": "ECHO",
         "rank_name": "Tier I",
         "rank_value": 1
@@ -363,19 +363,12 @@
         "rank_name": "Tier II",
         "rank_value": 2
     },
-    "65887411": {
-        "username": "TalksInHuman",
-        "username_checked": "2025-12-26",
-        "division": "DAGGER",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
     "542223891": {
         "username": "GoldMax7777",
         "username_checked": "2025-12-24",
         "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "253629301": {
         "username": "AJPlayer28",
@@ -444,8 +437,8 @@
         "username": "iEckstra",
         "username_checked": null,
         "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "753682407": {
         "username": "xmasrex14",

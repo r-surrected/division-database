@@ -758,5 +758,39 @@
         "new_division": "DAGGER",
         "rank_name": "Tier III",
         "rank_value": 3
+    },
+    {
+        "date": "2026-01-13",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 65887411,
+        "username": "TalksInHuman",
+        "division": "DAGGER",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2026-01-13",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 86012139,
+        "username": "iEckstra",
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3,
+        "new_rank_name": "Tier II",
+        "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-13",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 542223891,
+        "username": "GoldMax7777",
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3,
+        "new_rank_name": "Tier II",
+        "new_rank_value": 2
     }
 ]
