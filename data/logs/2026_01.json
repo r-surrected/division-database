@@ -792,5 +792,29 @@
         "old_rank_value": 3,
         "new_rank_name": "Tier II",
         "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-14",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 2332901263,
+        "username": "denVulcan",
+        "division": "RAZOR",
+        "old_rank_name": "D3 Protection Unit",
+        "old_rank_value": 4,
+        "new_rank_name": "D2 Protection Unit",
+        "new_rank_value": 5
+    },
+    {
+        "date": "2026-01-14",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 136627019,
+        "username": "C00Doc",
+        "division": "RAZOR",
+        "old_rank_name": "D3 Protection Unit",
+        "old_rank_value": 4,
+        "new_rank_name": "D2 Protection Unit",
+        "new_rank_value": 5
     }
 ]
