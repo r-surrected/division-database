@@ -816,5 +816,53 @@
         "old_rank_value": 4,
         "new_rank_name": "D2 Protection Unit",
         "new_rank_value": 5
+    },
+    {
+        "date": "2026-01-15",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 5163365672,
+        "username": "KLOPAPIER10009",
+        "division": "SPEAR",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7,
+        "new_rank_name": "Field Officer",
+        "new_rank_value": 8
+    },
+    {
+        "date": "2026-01-15",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 188344196,
+        "username": "Bruziska",
+        "division": "SPEAR",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7,
+        "new_rank_name": "Field Officer",
+        "new_rank_value": 8
+    },
+    {
+        "date": "2026-01-15",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 65043889,
+        "username": "Electr1kdude",
+        "division": "SPEAR",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7,
+        "new_rank_name": "Field Officer",
+        "new_rank_value": 8
+    },
+    {
+        "date": "2026-01-15",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 790705011,
+        "username": "ATRAXIOUS",
+        "division": "SPEAR",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7,
+        "new_rank_name": "Field Officer",
+        "new_rank_value": 8
     }
 ]
