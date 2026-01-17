@@ -864,5 +864,17 @@
         "old_rank_value": 7,
         "new_rank_name": "Field Officer",
         "new_rank_value": 8
+    },
+    {
+        "date": "2026-01-17",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 2465201663,
+        "username": "Eclipsed_Novus",
+        "division": "JURY",
+        "old_rank_name": "D3 Protection Unit",
+        "old_rank_value": 4,
+        "new_rank_name": "D2 Protection Unit",
+        "new_rank_value": 5
     }
 ]
