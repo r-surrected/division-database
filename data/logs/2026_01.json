@@ -1066,5 +1066,17 @@
         "old_rank_value": 4,
         "new_rank_name": "Overwatch Officer",
         "new_rank_value": 5
+    },
+    {
+        "date": "2026-01-21",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 4402557269,
+        "username": "SeaYux",
+        "division": "RANGER",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2,
+        "new_rank_name": "Tier I",
+        "new_rank_value": 1
     }
 ]
