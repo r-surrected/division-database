@@ -106,35 +106,35 @@
     },
     "16231952": {
         "username": "DexClassic",
-        "username_checked": "2026-01-13",
+        "username_checked": "2026-01-22",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "215230160": {
         "username": "yummychains",
-        "username_checked": "2026-01-13",
+        "username_checked": "2026-01-22",
         "division": "OTA",
         "rank_name": "Overwatch Officer",
         "rank_value": 5
     },
     "1196415137": {
         "username": "90gq31",
-        "username_checked": "2026-01-14",
+        "username_checked": "2026-01-22",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "90348463": {
         "username": "Vulrezz",
-        "username_checked": "2026-01-14",
+        "username_checked": "2026-01-22",
         "division": "OTA",
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
     "105326410": {
         "username": "PilotClassic",
-        "username_checked": "2026-01-14",
+        "username_checked": "2026-01-22",
         "division": "OTA",
         "rank_name": "Overwatch Officer",
         "rank_value": 5
@@ -244,6 +244,13 @@
         "rank_name": "Tier III",
         "rank_value": 3
     },
+    "248329287": {
+        "username": null,
+        "username_checked": null,
+        "division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
     "3590588349": {
         "username": "An1ziko",
         "username_checked": "2026-01-04",
@@ -289,9 +296,9 @@
     "2046993822": {
         "username": "r_isimm",
         "username_checked": "2025-12-24",
-        "division": "DAGGER",
-        "rank_name": "Tier I",
-        "rank_value": 1
+        "division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "844013250": {
         "username": "Arxxtic",
@@ -478,9 +485,9 @@
     "1409374": {
         "username": "Edvin96",
         "username_checked": null,
-        "division": "DAGGER",
-        "rank_name": "Tier II",
-        "rank_value": 2
+        "division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "7225765909": {
         "username": "8O8_DEAD2",
@@ -544,5 +551,12 @@
         "division": "ECHO",
         "rank_name": "Tier II",
         "rank_value": 2
+    },
+    "315838284": {
+        "username": null,
+        "username_checked": null,
+        "division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
     }
 }
