@@ -1120,5 +1120,15 @@
         "new_division": "PHANTOM",
         "rank_name": "Tier III",
         "rank_value": 3
+    },
+    {
+        "date": "2026-01-24",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 2038170176,
+        "username": "TheCampusDoctor",
+        "division": "JURY",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3
     }
 ]
