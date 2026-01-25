@@ -1130,5 +1130,27 @@
         "division": "JURY",
         "old_rank_name": "D4 Protection Unit",
         "old_rank_value": 3
+    },
+    {
+        "date": "2026-01-25",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 585618715,
+        "username": "KacpiTMXD",
+        "division": "ECHO",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2026-01-25",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 1167240489,
+        "username": "Robloxian472713356",
+        "division": "DAGGER",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3,
+        "new_rank_name": "Tier II",
+        "new_rank_value": 2
     }
 ]
