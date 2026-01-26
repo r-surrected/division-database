@@ -1152,5 +1152,27 @@
         "old_rank_value": 3,
         "new_rank_name": "Tier II",
         "new_rank_value": 2
+    },
+    {
+        "date": "2026-01-26",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 44381669,
+        "username": null,
+        "division": "SPEAR",
+        "old_rank_name": "Recruit",
+        "old_rank_value": 1
+    },
+    {
+        "date": "2026-01-26",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 253629301,
+        "username": "AJPlayer28",
+        "division": "ECHO",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2,
+        "new_rank_name": "Tier I",
+        "new_rank_value": 1
     }
 ]
